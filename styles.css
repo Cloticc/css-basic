@@ -1,24 +1,24 @@
 * {
-font-family: 'Relway', sans-serif;
-margin: 0;
+  font-family: "Relway", sans-serif;
+  margin: 0;
 }
 
 header {
-background-color: brown;
-padding: 10px;
-
+  background-color: brown;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 h1 {
-
   margin-top: 0;
   margin-bottom: 0;
-
 }
 
 main {
   background-color: coral;
-  padding: 0px 12px 0px ;
+  padding: 0px 12px 0px;
 }
 
 h2 {
@@ -26,6 +26,10 @@ h2 {
 }
 
 p {
+  background-color: rgba(37, 99, 91, 0.5);
+}
 
-background-color: rgba(37, 99, 91, 0.5)
+.other {
+  background-color: aqua;
+margin-top: 10px;
 }
