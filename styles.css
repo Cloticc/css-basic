@@ -24,3 +24,8 @@ main {
 h2 {
   border-bottom: 10px solid brown;
 }
+
+p {
+
+background-color: rgba(37, 99, 91, 0.5)
+}
